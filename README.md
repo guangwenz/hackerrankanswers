@@ -1,2 +1,0 @@
-# hackerrankanswers
-Hacker rank answers
